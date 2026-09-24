@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IFVOQTUB
 
 [Document6]
-DocumentPath=BUCK.SchDoc
+DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
